@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as i,ae as l}from"./chunks/framework.CDjunVez.js";const f=JSON.parse('{"title":"常见问题","description":"","frontmatter":{},"headers":[],"relativePath":"guide/faq.md","filePath":"guide/faq.md"}'),t={name:"guide/faq.md"};function r(n,a,c,d,h,s){return i(),o("div",null,[...a[0]||(a[0]=[l("",14)])])}const _=e(t,[["render",r]]);export{f as __pageData,_ as default};
